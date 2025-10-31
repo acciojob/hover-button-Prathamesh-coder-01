@@ -1,4 +1,3 @@
-/* Initial State */
 #btn {
   background-color: black;
   color: white;
@@ -8,8 +7,6 @@
   cursor: pointer;
   font-size: 16px;
 }
-
-/* Hover State */
 #btn:hover {
   background-color: yellow;
   color: black;
